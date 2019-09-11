@@ -1,0 +1,11 @@
+name: "california water data challenge"
+output_dir: "."
+navbar:
+  title: "Water Violations"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Data and Results"
+      href: data.html
